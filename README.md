@@ -5,7 +5,7 @@
 This repository presents a collection of automation tools and applications developed to optimize **airport operations, data management, and reporting**.  
 All solutions are designed to improve **efficiency, reduce errors, and support decision-making** in high-intensity environments.  
 
-📂 The full presentation with GIFs and detailed explanations is available in [/docs/AvGen4_Portfolio.pptx](./docs/AvGen4_Portfolio.pptx).  
+📂 The full presentation with detailed explanations is available in [/docs/AvGen4_Portfolio.pptx](./docs/AvGen4_Portfolio.pptx).  
 
 ---
 
