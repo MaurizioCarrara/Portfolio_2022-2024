@@ -3,12 +3,12 @@
 This repository presents a collection of automation tools and applications developed to optimize **airport operations, data management, and reporting**.  
 All solutions are designed to improve **efficiency, reduce errors, and support decision-making** in high-intensity environments.  
 
-📂 The full presentation with detailed explanations is available [here](./Portfolio_Maurizio%20Carrara_2022-24.pdf).  
-If you prefer the interactive PowerPoint version, feel free to request it via email: **carrara.mau@gmail.com**  
+- The full presentation with detailed explanations is available [here](./Portfolio_Maurizio%20Carrara_2022-24.pdf).  
+- If you prefer the interactive PowerPoint version, feel free to request it via email: **carrara.mau@gmail.com**  
 
 ---
 
-## 🚀 Key Projects  
+## Key Projects  
 
 ### 🔹 NMOP Reconciliation Tool  
 - **Purpose**: Reconciles Eurocontrol NMOP data with local airport systems (MAIS).  
@@ -47,12 +47,12 @@ A complete list of all General Aviation tools is available in the [portfolio PDF
 
 ---
 
-## 📈 Ongoing Development – W.A.A.S. (West Apron Aid System)  
+## Ongoing Development – W.A.A.S. (West Apron Aid System)  
 A unified **web-based application** currently in development that integrates all existing tools, expands interdepartmental communication, and enables scalable data analysis with improved cybersecurity.  
 
 ---
 
-## 🛠️ Skills Demonstrated  
+## Skills Demonstrated  
 - **Programming & Automation**: Python, Dash, VBA, Excel, KNIME  
 - **Data Management**: Forecasting, reconciliation, KPI monitoring, reporting  
 - **Process Optimization**: Workflow digitalization, error reduction, real-time awareness  
@@ -60,4 +60,4 @@ A unified **web-based application** currently in development that integrates all
 
 ---
 
-👤 **Author**: Maurizio Carrara  
+**Author**: Maurizio Carrara  
