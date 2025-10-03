@@ -56,7 +56,7 @@ A unified **web-based application** currently in development that integrates all
 - **Programming & Automation**: Python, Dash, VBA, Excel, KNIME  
 - **Data Management**: Forecasting, reconciliation, KPI monitoring, reporting  
 - **Process Optimization**: Workflow digitalization, error reduction, real-time awareness  
-- **Training & Communication**: Certified trainer with experience in high-intensity environments  
+- **Training & Communication**: Certified experience in high-intensity environments  
 
 ---
 
