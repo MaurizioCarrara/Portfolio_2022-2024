@@ -14,9 +14,8 @@ All solutions are designed to improve **efficiency, reduce errors, and support d
 - **Purpose**: Reconciles Eurocontrol NMOP data with local airport systems (MAIS).  
 - **Technology**: Python + Excel integration.  
 - **Impact**: Automated data cleaning and matching, providing fast and accurate reports to operations centers.  
-- **Detailed repository available in my profile**  
 
-### 🔹 GA3 Stand Alert  
+### 🔹 Stand Alert  
 - **Purpose**: On-screen alert tool to track stand availability in high-traffic scenarios.  
 - **Technology**: Lightweight Python app.  
 - **Impact**: Improved communication with ATC and reduced errors during peak operations.  
