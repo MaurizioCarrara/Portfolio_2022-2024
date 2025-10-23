@@ -25,7 +25,7 @@ All solutions are designed to improve **efficiency, reduce errors, and support d
 - **Purpose**: PC/Android app for generating detailed commercial and operational reports.  
 - **Technology**: Python Dash.  
 - **Impact**: Real-time reporting with data filtering by airport and date, accessible anywhere.  
-- **Detailed repository available in my profile**  
+- **[Detailed repository](https://github.com/MaurizioCarrara/GARC-Public) available in my profile**  
 
 ### 🔹 Fuel & Operational Registries  
 - **Purpose**: Automated Excel-based registries for refueling operations and daily activity tracking.  
