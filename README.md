@@ -19,7 +19,7 @@ All solutions are designed to improve **efficiency, reduce errors, and support d
 - **Purpose**: On-screen alert tool to track stand availability in high-traffic scenarios.  
 - **Technology**: Lightweight Python app.  
 - **Impact**: Improved communication with ATC and reduced errors during peak operations.  
-- **Detailed repository available in my profile**  
+- **[Detailed repository](https://github.com/MaurizioCarrara/AlertBox) available in my profile**  
 
 ### 🔹 G.A.R.C. (General Aviation Report Creator)  
 - **Purpose**: PC/Android app for generating detailed commercial and operational reports.  
